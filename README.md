@@ -1,8 +1,8 @@
-# 🏠 California Housing Price Prediction
+# California Housing Price Prediction
 
 This project builds and evaluates a neural network to predict median housing prices in California districts using features such as population, median income, housing age, and location.
 
-## 📦 Project Overview
+## Project Overview
 
 - **Goal**: Predict the `median_house_value` from other features in the California housing dataset.
 - **Dataset**: Derived from the California census data (originally from the StatLib repository).
@@ -11,7 +11,7 @@ This project builds and evaluates a neural network to predict median housing pri
 
 ---
 
-## 🧪 Tech Stack
+## Tech Stack
 
 - **Python 3.10+**
 - **TensorFlow / Keras**
@@ -22,7 +22,7 @@ This project builds and evaluates a neural network to predict median housing pri
 
 ---
 
-## 🔧 Setup Instructions
+##  Setup Instructions
 
 1. **Clone this repository**
    ```bash
